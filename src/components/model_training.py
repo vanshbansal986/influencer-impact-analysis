@@ -388,8 +388,8 @@ class ModelTraining:
 
         
         # List of video URLs
-        video_urls = df['url'].to_list()[:3]
-        metric = df['Performance'].to_list()[:3]
+        video_urls = df['url'].to_list()
+        metric = df['Performance'].to_list()
         
         # Run the process
         self.process_videos(video_urls , metric)

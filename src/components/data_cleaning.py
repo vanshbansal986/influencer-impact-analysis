@@ -67,7 +67,7 @@ class DataCleaning:
         # Load Excel data
         logger.info(f"Reading excel file at path: {excel_data_path}")
         df = pd.read_excel(excel_data_path)
-        df = df.sample(10)
+        #df = df.sample(10)
         logger.info(f"excel file at path: {excel_data_path} read Successfully !!!")
         
         df.rename(columns={'Video URL': 'url'}, inplace=True)
