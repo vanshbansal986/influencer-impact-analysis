@@ -1,0 +1,21 @@
+artifacts_root: "temp_data"
+
+data_cleaning:
+  url_score_data: "temp_data/url_score data/raw/Assignment Data.xlsx"
+  clean_data_temp_dir: "temp_data/url_score data/clean"
+
+model_training:
+  model_name: "Facenet"
+  threshold: 0.6
+  distance_metric: "cosine"
+  output_directory: "unique_faces"
+  model_results_dir: "temp_data/model_training_data"
+
+result_transformation:
+  influencer_avg_main_dir: "main_data/influencer_avg_data"
+  influence_total_score_dir: "main_data/model_training_data" 
+  urls_score_main_dir: "main_data/urls_score data"
+
+  
+
+

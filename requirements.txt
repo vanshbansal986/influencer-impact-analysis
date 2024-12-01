@@ -1,0 +1,16 @@
+pandas
+numpy 
+ipykernel
+deepface
+requests
+scikit-learn
+matplotlib
+faiss-cpu
+pillow
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+certifi
+python-box
