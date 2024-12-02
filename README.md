@@ -5,6 +5,8 @@
 
 https://influencer-impact-results.onrender.com/
 
+(might take some time to load)
+
 ## Table of Contents
 - [Influencer Selection System - End-to-End Deep Learning Project](#influencer-selection-system---end-to-end-deep-learning-project)
 - [Main analysis and results](#main-analysis-and-results)
