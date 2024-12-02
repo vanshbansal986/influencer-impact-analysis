@@ -17,13 +17,4 @@ python-box
 imagehash
 tf-keras
 openpyxl
-
-unique_faces/unique_face_2024-12-02_02-31-02.jpg
-unique_faces/unique_face_2024-12-02_02-30-59.jpg
-
-unique_faces/unique_face_2024-12-02_02-35-16.jpg
-
-unique_faces/unique_face_2024-12-02_02-33-27.jpg
-
-
-unique_faces/unique_face_2024-12-02_02-30-21.jpg
+flask
