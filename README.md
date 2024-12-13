@@ -1,17 +1,9 @@
 # Influencer Selection System - End-to-End Deep Learning Project
 
-# Main analysis and results
-## You can view the analysis of the data directly over here and worry about the boring part later:
-
-https://influencer-impact-results.onrender.com/
-
-(might take some time to load)
 
 ## Table of Contents
-- [Influencer Selection System - End-to-End Deep Learning Project](#influencer-selection-system---end-to-end-deep-learning-project)
-- [Main analysis and results](#main-analysis-and-results)
-  - [You can view the analysis of the data directly over here and worry about the boring part later:](#you-can-view-the-analysis-of-the-data-directly-over-here-and-worry-about-the-boring-part-later)
-  - [Table of Contents](#table-of-contents)
+
+- [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Problem Statement](#problem-statement)
     - [Objectives:](#objectives)
@@ -20,6 +12,7 @@ https://influencer-impact-results.onrender.com/
     - [Stage 1: Data Cleaning](#stage-1-data-cleaning)
     - [Stage 2: Gathering Results](#stage-2-gathering-results)
     - [Stage 3: Result Transformation](#stage-3-result-transformation)
+  - [Main analysis and results](#main-analysis-and-results)
   - [Project Structure](#project-structure)
   - [Setup](#setup)
   - [License](#license)
@@ -67,6 +60,14 @@ The project involves a **3-step pipeline** designed for professional use:
   1. Check if extracted influencers already exist in the database.
   2. Update the average performance scores for existing influencers.
   3. Add new influencers and their scores if they do not already exist.
+
+
+## Main analysis and results
+### You can view the analysis of the data directly over here and worry about the boring part later:
+
+https://influencer-impact-results.onrender.com/
+
+(might take some time to load)
 
 ## Project Structure
 **Here is a detailed project structure if anyone cares:**
